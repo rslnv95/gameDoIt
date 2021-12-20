@@ -55,11 +55,11 @@ const GameDoIt = () => {
                 <div className="row">
                     <div className="col-6">
                         <h3>Player:</h3>
-                        <img src={playerRes} alt='picture' />
+                        <img src={playerRes} alt='playRes' />
                     </div>
                     <div className="col-6">
                         <h3>Bot:</h3>
-                        <img src={botRes} alt='picture' />
+                        <img src={botRes} alt='botRes' />
                     </div>
                 </div>
             </div>
